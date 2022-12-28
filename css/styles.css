@@ -8,7 +8,6 @@ body{
     margin:50px auto;
     width:85%;
     padding:100px 0;
-    position:relative;
 }
 .main{
     background-color: hsl(0, 0%, 100%);
@@ -17,7 +16,6 @@ body{
     margin:auto;
     padding:15px;
     border-radius:20px;
-    position:relative;
     
 }
 
@@ -35,6 +33,7 @@ h3{
 
 p{
     text-align:center;
+    height:25%;
     width:90%;
     margin:auto;
     color:gray;
