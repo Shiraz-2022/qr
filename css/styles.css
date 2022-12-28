@@ -1,0 +1,43 @@
+body{
+    font-family: 'Outfit', sans-serif;
+    background-color: #FEFCF3;
+}
+
+.bg{
+    background-color:hsl(212, 45%, 89%);
+    margin:50px auto;
+    width:85%;
+    padding:100px 0;
+    position:relative;
+}
+.main{
+    background-color: hsl(0, 0%, 100%);
+    width:20%;
+    height:400px;
+    margin:auto;
+    padding:15px;
+    border-radius:20px;
+    position:relative;
+    
+}
+
+.qr-image{
+    width:100%;
+    border-radius:10px;
+}
+
+h3{
+    width:90%;
+    text-align:center;
+    padding:0px 10px;
+    font-weight:700;
+}
+
+p{
+    text-align:center;
+    width:90%;
+    margin:auto;
+    color:gray;
+    font-weight:400;
+    font-size:small;
+}
